@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 PRUEBA DE CAMBIOS PARA RAMA v1
+=======
+PRUEBA DE CAMBIOS PARA RAMA v1 y PR hacia master
+>>>>>>> 652f18e6aaf03cad756e90149887c63215bfd711
